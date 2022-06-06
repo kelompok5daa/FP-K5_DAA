@@ -22,13 +22,3 @@ Future Work
 1. add sensor noise model, wind.
 2. add sensor fusion.i.e EKF,UKF
 3. reinforment learning.
-
-Contribution
------
-Any contribution are welcome if you are interested in the project, but please let me know.
-
-Contact
------
-Peter Huang
-
-Email: hbd730@gmail.com
